@@ -138,4 +138,5 @@ def getDistance(canvas, graph, last):
         numStations+=1
     print("Number of Stations: " + str(numStations))
     return round(dist, 2)
+
 solve()
